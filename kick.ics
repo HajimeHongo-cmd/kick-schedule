@@ -1,0 +1,570 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kick-schedule//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:キック（クロスポイント吉祥寺）
+X-WR-TIMEZONE:Asia/Tokyo
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Asia/Tokyo
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0900
+TZOFFSETTO:+0900
+TZNAME:JST
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:a586bdb79fd68c264131@kick-schedule
+DTSTAMP:20261012T235658Z
+DTSTART;TZID=Asia/Tokyo:20261005T180000
+DTEND;TZID=Asia/Tokyo:20261005T185000
+RRULE:FREQ=WEEKLY;BYDAY=MO
+SUMMARY:キック入門（本館1階）
+LOCATION:KNOCK OUTクロスポイント吉祥寺\, 東京都武蔵野市吉
+ 祥寺東町1-11-20 鴨下ビル1F
+DESCRIPTION:場所：本館1階\n担当：瑛作（画像からの読み取
+ り）\nスケジュール版：2026年10月～\n出典：https://www.shib
+ ukichi.com/contents/category/store-kichijoji/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c600ba52d33d044dc1cb@kick-schedule
+DTSTAMP:20261012T235658Z
+DTSTART;TZID=Asia/Tokyo:20261005T193000
+DTEND;TZID=Asia/Tokyo:20261005T202000
+RRULE:FREQ=WEEKLY;BYDAY=MO
+SUMMARY:マス入門（新館1階）
+LOCATION:KNOCK OUTクロスポイント吉祥寺\, 東京都武蔵野市吉
+ 祥寺東町1-11-20 鴨下ビル1F
+DESCRIPTION:場所：新館1階\n担当：横山（画像からの読み取
+ り）\nスケジュール版：2026年10月～\n出典：https://www.shib
+ ukichi.com/contents/category/store-kichijoji/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:25a04c348d36379c12f5@kick-schedule
+DTSTAMP:20261012T235658Z
+DTSTART;TZID=Asia/Tokyo:20261005T193000
+DTEND;TZID=Asia/Tokyo:20261005T212000
+RRULE:FREQ=WEEKLY;BYDAY=MO
+SUMMARY:キック中上級（新館1階）
+LOCATION:KNOCK OUTクロスポイント吉祥寺\, 東京都武蔵野市吉
+ 祥寺東町1-11-20 鴨下ビル1F
+DESCRIPTION:場所：新館1階\n担当：横山（画像からの読み取
+ り）\nスケジュール版：2026年10月～\n出典：https://www.shib
+ ukichi.com/contents/category/store-kichijoji/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c5b07a8ff71cb998e20c@kick-schedule
+DTSTAMP:20261012T235658Z
+DTSTART;TZID=Asia/Tokyo:20261005T203000
+DTEND;TZID=Asia/Tokyo:20261005T212000
+RRULE:FREQ=WEEKLY;BYDAY=MO
+SUMMARY:キック入門（本館1階）
+LOCATION:KNOCK OUTクロスポイント吉祥寺\, 東京都武蔵野市吉
+ 祥寺東町1-11-20 鴨下ビル1F
+DESCRIPTION:場所：本館1階\n担当：会長（画像からの読み取
+ り）\n★体験可クラス\nスケジュール版：2026年10月～\n
+ 出典：https://www.shibukichi.com/contents/category/store-kichijoji/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ef1d6f003907ec66d182@kick-schedule
+DTSTAMP:20261012T235658Z
+DTSTART;TZID=Asia/Tokyo:20261006T083000
+DTEND;TZID=Asia/Tokyo:20261006T110000
+RRULE:FREQ=WEEKLY;BYDAY=TU
+SUMMARY:朝フリーキック（本館1階）
+LOCATION:KNOCK OUTクロスポイント吉祥寺\, 東京都武蔵野市吉
+ 祥寺東町1-11-20 鴨下ビル1F
+DESCRIPTION:場所：本館1階\n担当：横山（画像からの読み取
+ り）\nスケジュール版：2026年10月～\n出典：https://www.shib
+ ukichi.com/contents/category/store-kichijoji/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ea61c078c547b06e48b0@kick-schedule
+DTSTAMP:20261012T235658Z
+DTSTART;TZID=Asia/Tokyo:20261006T113000
+DTEND;TZID=Asia/Tokyo:20261006T122000
+RRULE:FREQ=WEEKLY;BYDAY=TU
+SUMMARY:キック入門（本館1階）
+LOCATION:KNOCK OUTクロスポイント吉祥寺\, 東京都武蔵野市吉
+ 祥寺東町1-11-20 鴨下ビル1F
+DESCRIPTION:場所：本館1階\n担当：新田（画像からの読み取
+ り）\nスケジュール版：2026年10月～\n出典：https://www.shib
+ ukichi.com/contents/category/store-kichijoji/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:86936b6db2b5ed9db57f@kick-schedule
+DTSTAMP:20261012T235658Z
+DTSTART;TZID=Asia/Tokyo:20261006T130000
+DTEND;TZID=Asia/Tokyo:20261006T135000
+RRULE:FREQ=WEEKLY;BYDAY=TU
+SUMMARY:キック入門（本館1階）
+LOCATION:KNOCK OUTクロスポイント吉祥寺\, 東京都武蔵野市吉
+ 祥寺東町1-11-20 鴨下ビル1F
+DESCRIPTION:場所：本館1階\n担当：増田（画像からの読み取
+ り）\n★体験可クラス\nスケジュール版：2026年10月～\n
+ 出典：https://www.shibukichi.com/contents/category/store-kichijoji/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fa8614ace66469765703@kick-schedule
+DTSTAMP:20261012T235658Z
+DTSTART;TZID=Asia/Tokyo:20261006T150000
+DTEND;TZID=Asia/Tokyo:20261006T170000
+RRULE:FREQ=WEEKLY;BYDAY=TU
+SUMMARY:フリーキック（本館2階）
+LOCATION:KNOCK OUTクロスポイント吉祥寺\, 東京都武蔵野市吉
+ 祥寺東町1-11-20 鴨下ビル1F
+DESCRIPTION:場所：本館2階\n担当：増田（画像からの読み取
+ り）\nスケジュール版：2026年10月～\n出典：https://www.shib
+ ukichi.com/contents/category/store-kichijoji/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9d118e4723fec0d30c69@kick-schedule
+DTSTAMP:20261012T235658Z
+DTSTART;TZID=Asia/Tokyo:20261006T183000
+DTEND;TZID=Asia/Tokyo:20261006T192000
+RRULE:FREQ=WEEKLY;BYDAY=TU
+SUMMARY:キック入門（本館1階）
+LOCATION:KNOCK OUTクロスポイント吉祥寺\, 東京都武蔵野市吉
+ 祥寺東町1-11-20 鴨下ビル1F
+DESCRIPTION:場所：本館1階\n担当：裕貴（画像からの読み取
+ り）\n★体験可クラス\nスケジュール版：2026年10月～\n
+ 出典：https://www.shibukichi.com/contents/category/store-kichijoji/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8f90d92b817ebc19f889@kick-schedule
+DTSTAMP:20261012T235658Z
+DTSTART;TZID=Asia/Tokyo:20261006T193000
+DTEND;TZID=Asia/Tokyo:20261006T203000
+RRULE:FREQ=WEEKLY;BYDAY=TU
+SUMMARY:フィジカル（本館1階）
+LOCATION:KNOCK OUTクロスポイント吉祥寺\, 東京都武蔵野市吉
+ 祥寺東町1-11-20 鴨下ビル1F
+DESCRIPTION:場所：本館1階\n担当：和田（画像からの読み取
+ り）\nスケジュール版：2026年10月～\n出典：https://www.shib
+ ukichi.com/contents/category/store-kichijoji/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7adea6cf7fea1409dbb1@kick-schedule
+DTSTAMP:20261012T235658Z
+DTSTART;TZID=Asia/Tokyo:20261006T210000
+DTEND;TZID=Asia/Tokyo:20261006T215000
+RRULE:FREQ=WEEKLY;BYDAY=TU
+SUMMARY:キック入門（本館1階）
+LOCATION:KNOCK OUTクロスポイント吉祥寺\, 東京都武蔵野市吉
+ 祥寺東町1-11-20 鴨下ビル1F
+DESCRIPTION:場所：本館1階\n担当：新田（画像からの読み取
+ り）\n★体験可クラス\nスケジュール版：2026年10月～\n
+ 出典：https://www.shibukichi.com/contents/category/store-kichijoji/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5dc00294738170b3e02e@kick-schedule
+DTSTAMP:20261012T235658Z
+DTSTART;TZID=Asia/Tokyo:20261007T083000
+DTEND;TZID=Asia/Tokyo:20261007T110000
+RRULE:FREQ=WEEKLY;BYDAY=WE
+SUMMARY:朝フリーキック（本館1階）
+LOCATION:KNOCK OUTクロスポイント吉祥寺\, 東京都武蔵野市吉
+ 祥寺東町1-11-20 鴨下ビル1F
+DESCRIPTION:場所：本館1階\n担当：横山（画像からの読み取
+ り）\nスケジュール版：2026年10月～\n出典：https://www.shib
+ ukichi.com/contents/category/store-kichijoji/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f0945de8692146a24b16@kick-schedule
+DTSTAMP:20261012T235658Z
+DTSTART;TZID=Asia/Tokyo:20261007T113000
+DTEND;TZID=Asia/Tokyo:20261007T122000
+RRULE:FREQ=WEEKLY;BYDAY=WE
+SUMMARY:キック中級（本館1階）
+LOCATION:KNOCK OUTクロスポイント吉祥寺\, 東京都武蔵野市吉
+ 祥寺東町1-11-20 鴨下ビル1F
+DESCRIPTION:場所：本館1階\n担当：瑛作（画像からの読み取
+ り）\nスケジュール版：2026年10月～\n出典：https://www.shib
+ ukichi.com/contents/category/store-kichijoji/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d31ac08d5436fa7d4b6b@kick-schedule
+DTSTAMP:20261012T235658Z
+DTSTART;TZID=Asia/Tokyo:20261007T130000
+DTEND;TZID=Asia/Tokyo:20261007T135000
+RRULE:FREQ=WEEKLY;BYDAY=WE
+SUMMARY:キック入門（本館1階）
+LOCATION:KNOCK OUTクロスポイント吉祥寺\, 東京都武蔵野市吉
+ 祥寺東町1-11-20 鴨下ビル1F
+DESCRIPTION:場所：本館1階\n担当：瑛作（画像からの読み取
+ り）\n★体験可クラス\nスケジュール版：2026年10月～\n
+ 出典：https://www.shibukichi.com/contents/category/store-kichijoji/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:76d03382e1e2d2429001@kick-schedule
+DTSTAMP:20261012T235658Z
+DTSTART;TZID=Asia/Tokyo:20261007T150000
+DTEND;TZID=Asia/Tokyo:20261007T170000
+RRULE:FREQ=WEEKLY;BYDAY=WE
+SUMMARY:フリーキック（新館1階）
+LOCATION:KNOCK OUTクロスポイント吉祥寺\, 東京都武蔵野市吉
+ 祥寺東町1-11-20 鴨下ビル1F
+DESCRIPTION:場所：新館1階\n担当：増田（画像からの読み取
+ り）\nスケジュール版：2026年10月～\n出典：https://www.shib
+ ukichi.com/contents/category/store-kichijoji/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8358a220bbefd7499976@kick-schedule
+DTSTAMP:20261012T235658Z
+DTSTART;TZID=Asia/Tokyo:20261007T183000
+DTEND;TZID=Asia/Tokyo:20261007T192000
+RRULE:FREQ=WEEKLY;BYDAY=WE
+SUMMARY:キック入門（本館1階）
+LOCATION:KNOCK OUTクロスポイント吉祥寺\, 東京都武蔵野市吉
+ 祥寺東町1-11-20 鴨下ビル1F
+DESCRIPTION:場所：本館1階\n担当：新田（画像からの読み取
+ り）\n★体験可クラス\nスケジュール版：2026年10月～\n
+ 出典：https://www.shibukichi.com/contents/category/store-kichijoji/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:22ebeeb152d0dfa2004e@kick-schedule
+DTSTAMP:20261012T235658Z
+DTSTART;TZID=Asia/Tokyo:20261007T200000
+DTEND;TZID=Asia/Tokyo:20261007T210000
+RRULE:FREQ=WEEKLY;BYDAY=WE
+SUMMARY:キック中級（本館1階）
+LOCATION:KNOCK OUTクロスポイント吉祥寺\, 東京都武蔵野市吉
+ 祥寺東町1-11-20 鴨下ビル1F
+DESCRIPTION:場所：本館1階\n担当：増田（画像からの読み取
+ り）\nスケジュール版：2026年10月～\n出典：https://www.shib
+ ukichi.com/contents/category/store-kichijoji/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:05ebb19f0c322de588fd@kick-schedule
+DTSTAMP:20261012T235658Z
+DTSTART;TZID=Asia/Tokyo:20261007T203000
+DTEND;TZID=Asia/Tokyo:20261007T212000
+RRULE:FREQ=WEEKLY;BYDAY=WE
+SUMMARY:キック入門（本館2階）
+LOCATION:KNOCK OUTクロスポイント吉祥寺\, 東京都武蔵野市吉
+ 祥寺東町1-11-20 鴨下ビル1F
+DESCRIPTION:場所：本館2階\n担当：裕貴（画像からの読み取
+ り）\n★体験可クラス\nスケジュール版：2026年10月～\n
+ 出典：https://www.shibukichi.com/contents/category/store-kichijoji/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:735357d55130862d78ab@kick-schedule
+DTSTAMP:20261012T235658Z
+DTSTART;TZID=Asia/Tokyo:20261001T083000
+DTEND;TZID=Asia/Tokyo:20261001T110000
+RRULE:FREQ=WEEKLY;BYDAY=TH
+SUMMARY:朝フリーキック（本館1階）
+LOCATION:KNOCK OUTクロスポイント吉祥寺\, 東京都武蔵野市吉
+ 祥寺東町1-11-20 鴨下ビル1F
+DESCRIPTION:場所：本館1階\n担当：横山（画像からの読み取
+ り）\nスケジュール版：2026年10月～\n出典：https://www.shib
+ ukichi.com/contents/category/store-kichijoji/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:00201709dd271cb77ace@kick-schedule
+DTSTAMP:20261012T235658Z
+DTSTART;TZID=Asia/Tokyo:20261001T113000
+DTEND;TZID=Asia/Tokyo:20261001T122000
+RRULE:FREQ=WEEKLY;BYDAY=TH
+SUMMARY:キック入門（本館1階）
+LOCATION:KNOCK OUTクロスポイント吉祥寺\, 東京都武蔵野市吉
+ 祥寺東町1-11-20 鴨下ビル1F
+DESCRIPTION:場所：本館1階\n担当：瑛作（画像からの読み取
+ り）\nスケジュール版：2026年10月～\n出典：https://www.shib
+ ukichi.com/contents/category/store-kichijoji/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d69ceb56b6d5affda7d5@kick-schedule
+DTSTAMP:20261012T235658Z
+DTSTART;TZID=Asia/Tokyo:20261001T130000
+DTEND;TZID=Asia/Tokyo:20261001T135000
+RRULE:FREQ=WEEKLY;BYDAY=TH
+SUMMARY:キック入門（本館1階）
+LOCATION:KNOCK OUTクロスポイント吉祥寺\, 東京都武蔵野市吉
+ 祥寺東町1-11-20 鴨下ビル1F
+DESCRIPTION:場所：本館1階\n担当：瑛作（画像からの読み取
+ り）\n★体験可クラス\nスケジュール版：2026年10月～\n
+ 出典：https://www.shibukichi.com/contents/category/store-kichijoji/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3c0c848ef4af5c278c83@kick-schedule
+DTSTAMP:20261012T235658Z
+DTSTART;TZID=Asia/Tokyo:20261001T150000
+DTEND;TZID=Asia/Tokyo:20261001T170000
+RRULE:FREQ=WEEKLY;BYDAY=TH
+SUMMARY:フリーキック（新館1階）
+LOCATION:KNOCK OUTクロスポイント吉祥寺\, 東京都武蔵野市吉
+ 祥寺東町1-11-20 鴨下ビル1F
+DESCRIPTION:場所：新館1階\n担当：増田（画像からの読み取
+ り）\nスケジュール版：2026年10月～\n出典：https://www.shib
+ ukichi.com/contents/category/store-kichijoji/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5530aeccbbb87f8da687@kick-schedule
+DTSTAMP:20261012T235658Z
+DTSTART;TZID=Asia/Tokyo:20261001T183000
+DTEND;TZID=Asia/Tokyo:20261001T192000
+RRULE:FREQ=WEEKLY;BYDAY=TH
+SUMMARY:キック入門（本館1階）
+LOCATION:KNOCK OUTクロスポイント吉祥寺\, 東京都武蔵野市吉
+ 祥寺東町1-11-20 鴨下ビル1F
+DESCRIPTION:場所：本館1階\n担当：新妻（判読不確実）（画
+ 像からの読み取り）\n★体験可クラス\nスケジュール版
+ ：2026年10月～\n出典：https://www.shibukichi.com/contents/category/
+ store-kichijoji/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:887867f85f54347c1abb@kick-schedule
+DTSTAMP:20261012T235658Z
+DTSTART;TZID=Asia/Tokyo:20261001T200000
+DTEND;TZID=Asia/Tokyo:20261001T205000
+RRULE:FREQ=WEEKLY;BYDAY=TH
+SUMMARY:キック超入門（本館1階）
+LOCATION:KNOCK OUTクロスポイント吉祥寺\, 東京都武蔵野市吉
+ 祥寺東町1-11-20 鴨下ビル1F
+DESCRIPTION:場所：本館1階\n担当：増田（画像からの読み取
+ り）\n★体験可クラス\nスケジュール版：2026年10月～\n
+ 出典：https://www.shibukichi.com/contents/category/store-kichijoji/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:45ac555ba8bb5c964723@kick-schedule
+DTSTAMP:20261012T235658Z
+DTSTART;TZID=Asia/Tokyo:20261001T210000
+DTEND;TZID=Asia/Tokyo:20261001T215000
+RRULE:FREQ=WEEKLY;BYDAY=TH
+SUMMARY:キック&マス入門（本館1階）
+LOCATION:KNOCK OUTクロスポイント吉祥寺\, 東京都武蔵野市吉
+ 祥寺東町1-11-20 鴨下ビル1F
+DESCRIPTION:場所：本館1階\n担当：増田（画像からの読み取
+ り）\nスケジュール版：2026年10月～\n出典：https://www.shib
+ ukichi.com/contents/category/store-kichijoji/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d179df1beb281130c29e@kick-schedule
+DTSTAMP:20261012T235658Z
+DTSTART;TZID=Asia/Tokyo:20261002T083000
+DTEND;TZID=Asia/Tokyo:20261002T110000
+RRULE:FREQ=WEEKLY;BYDAY=FR
+SUMMARY:朝フリーキック（本館1階）
+LOCATION:KNOCK OUTクロスポイント吉祥寺\, 東京都武蔵野市吉
+ 祥寺東町1-11-20 鴨下ビル1F
+DESCRIPTION:場所：本館1階\n担当：横山（画像からの読み取
+ り）\nスケジュール版：2026年10月～\n出典：https://www.shib
+ ukichi.com/contents/category/store-kichijoji/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:be25518a16e72103a90d@kick-schedule
+DTSTAMP:20261012T235658Z
+DTSTART;TZID=Asia/Tokyo:20261002T113000
+DTEND;TZID=Asia/Tokyo:20261002T122000
+RRULE:FREQ=WEEKLY;BYDAY=FR
+SUMMARY:キック入門（本館1階）
+LOCATION:KNOCK OUTクロスポイント吉祥寺\, 東京都武蔵野市吉
+ 祥寺東町1-11-20 鴨下ビル1F
+DESCRIPTION:場所：本館1階\n担当：川野（判読不確実）（画
+ 像からの読み取り）\nスケジュール版：2026年10月～\n出
+ 典：https://www.shibukichi.com/contents/category/store-kichijoji/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:58f62d65e5f604ee128e@kick-schedule
+DTSTAMP:20261012T235658Z
+DTSTART;TZID=Asia/Tokyo:20261002T130000
+DTEND;TZID=Asia/Tokyo:20261002T135000
+RRULE:FREQ=WEEKLY;BYDAY=FR
+SUMMARY:キック入門（本館1階）
+LOCATION:KNOCK OUTクロスポイント吉祥寺\, 東京都武蔵野市吉
+ 祥寺東町1-11-20 鴨下ビル1F
+DESCRIPTION:場所：本館1階\n担当：増田（画像からの読み取
+ り）\n★体験可クラス\nスケジュール版：2026年10月～\n
+ 出典：https://www.shibukichi.com/contents/category/store-kichijoji/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b745d481bc611e29a745@kick-schedule
+DTSTAMP:20261012T235658Z
+DTSTART;TZID=Asia/Tokyo:20261002T150000
+DTEND;TZID=Asia/Tokyo:20261002T170000
+RRULE:FREQ=WEEKLY;BYDAY=FR
+SUMMARY:フリーキック（本館2階）
+LOCATION:KNOCK OUTクロスポイント吉祥寺\, 東京都武蔵野市吉
+ 祥寺東町1-11-20 鴨下ビル1F
+DESCRIPTION:場所：本館2階\n担当：増田（画像からの読み取
+ り）\nスケジュール版：2026年10月～\n出典：https://www.shib
+ ukichi.com/contents/category/store-kichijoji/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e70c47ac17db1b7c599c@kick-schedule
+DTSTAMP:20261012T235658Z
+DTSTART;TZID=Asia/Tokyo:20261002T183000
+DTEND;TZID=Asia/Tokyo:20261002T192000
+RRULE:FREQ=WEEKLY;BYDAY=FR
+SUMMARY:キック入門（本館1階）
+LOCATION:KNOCK OUTクロスポイント吉祥寺\, 東京都武蔵野市吉
+ 祥寺東町1-11-20 鴨下ビル1F
+DESCRIPTION:場所：本館1階\n担当：重森（判読不確実）（画
+ 像からの読み取り）\n★体験可クラス\nスケジュール版
+ ：2026年10月～\n出典：https://www.shibukichi.com/contents/category/
+ store-kichijoji/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6ad576931409e2f03182@kick-schedule
+DTSTAMP:20261012T235658Z
+DTSTART;TZID=Asia/Tokyo:20261002T200000
+DTEND;TZID=Asia/Tokyo:20261002T210000
+RRULE:FREQ=WEEKLY;BYDAY=FR
+SUMMARY:キック中級（本館1階）
+LOCATION:KNOCK OUTクロスポイント吉祥寺\, 東京都武蔵野市吉
+ 祥寺東町1-11-20 鴨下ビル1F
+DESCRIPTION:場所：本館1階\n担当：会長 or 増田（画像から
+ の読み取り）\nスケジュール版：2026年10月～\n出典：http
+ s://www.shibukichi.com/contents/category/store-kichijoji/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d73e4185c52debdc49c7@kick-schedule
+DTSTAMP:20261012T235658Z
+DTSTART;TZID=Asia/Tokyo:20261002T203000
+DTEND;TZID=Asia/Tokyo:20261002T212000
+RRULE:FREQ=WEEKLY;BYDAY=FR
+SUMMARY:キック入門（本館2階）
+LOCATION:KNOCK OUTクロスポイント吉祥寺\, 東京都武蔵野市吉
+ 祥寺東町1-11-20 鴨下ビル1F
+DESCRIPTION:場所：本館2階\n担当：江森（判読不確実）（画
+ 像からの読み取り）\n★体験可クラス\nスケジュール版
+ ：2026年10月～\n出典：https://www.shibukichi.com/contents/category/
+ store-kichijoji/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:653d6920501259337677@kick-schedule
+DTSTAMP:20261012T235658Z
+DTSTART;TZID=Asia/Tokyo:20261003T100000
+DTEND;TZID=Asia/Tokyo:20261003T111500
+RRULE:FREQ=WEEKLY;BYDAY=SA
+SUMMARY:キックALL（本館1階）
+LOCATION:KNOCK OUTクロスポイント吉祥寺\, 東京都武蔵野市吉
+ 祥寺東町1-11-20 鴨下ビル1F
+DESCRIPTION:場所：本館1階\n担当：会長（画像からの読み取
+ り）\nスケジュール版：2026年10月～\n出典：https://www.shib
+ ukichi.com/contents/category/store-kichijoji/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:943415e01446f3341e95@kick-schedule
+DTSTAMP:20261012T235658Z
+DTSTART;TZID=Asia/Tokyo:20261003T120000
+DTEND;TZID=Asia/Tokyo:20261003T125000
+RRULE:FREQ=WEEKLY;BYDAY=SA
+SUMMARY:キック超入門（本館1階）
+LOCATION:KNOCK OUTクロスポイント吉祥寺\, 東京都武蔵野市吉
+ 祥寺東町1-11-20 鴨下ビル1F
+DESCRIPTION:場所：本館1階\n担当：大谷（画像からの読み取
+ り）\nスケジュール版：2026年10月～\n出典：https://www.shib
+ ukichi.com/contents/category/store-kichijoji/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:34375fdcd958792141aa@kick-schedule
+DTSTAMP:20261012T235658Z
+DTSTART;TZID=Asia/Tokyo:20261003T150000
+DTEND;TZID=Asia/Tokyo:20261003T155000
+RRULE:FREQ=WEEKLY;BYDAY=SA
+SUMMARY:キック入門（本館1階）
+LOCATION:KNOCK OUTクロスポイント吉祥寺\, 東京都武蔵野市吉
+ 祥寺東町1-11-20 鴨下ビル1F
+DESCRIPTION:場所：本館1階\n担当：大谷（画像からの読み取
+ り）\nスケジュール版：2026年10月～\n出典：https://www.shib
+ ukichi.com/contents/category/store-kichijoji/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1ea988caece3f50b48c3@kick-schedule
+DTSTAMP:20261012T235658Z
+DTSTART;TZID=Asia/Tokyo:20261004T110000
+DTEND;TZID=Asia/Tokyo:20261004T115000
+RRULE:FREQ=WEEKLY;BYDAY=SU
+SUMMARY:キック入門（本館1階）
+LOCATION:KNOCK OUTクロスポイント吉祥寺\, 東京都武蔵野市吉
+ 祥寺東町1-11-20 鴨下ビル1F
+DESCRIPTION:場所：本館1階\n担当：増田（画像からの読み取
+ り）\nスケジュール版：2026年10月～\n出典：https://www.shib
+ ukichi.com/contents/category/store-kichijoji/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:51557466d651b674b20b@kick-schedule
+DTSTAMP:20261012T235658Z
+DTSTART;TZID=Asia/Tokyo:20261004T120000
+DTEND;TZID=Asia/Tokyo:20261004T125000
+RRULE:FREQ=WEEKLY;BYDAY=SU
+SUMMARY:ミット&マススパーリング（本館1階）
+LOCATION:KNOCK OUTクロスポイント吉祥寺\, 東京都武蔵野市吉
+ 祥寺東町1-11-20 鴨下ビル1F
+DESCRIPTION:場所：本館1階\n※時間割表に時刻の記載がない
+ ため、前後の枠から推定した時刻です\nスケジュール版
+ ：2026年10月～\n出典：https://www.shibukichi.com/contents/category/
+ store-kichijoji/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8f02951728d51e0d4385@kick-schedule
+DTSTAMP:20261012T235658Z
+DTSTART;TZID=Asia/Tokyo:20261004T140000
+DTEND;TZID=Asia/Tokyo:20261004T145000
+RRULE:FREQ=WEEKLY;BYDAY=SU
+SUMMARY:キック入門（本館1階）
+LOCATION:KNOCK OUTクロスポイント吉祥寺\, 東京都武蔵野市吉
+ 祥寺東町1-11-20 鴨下ビル1F
+DESCRIPTION:場所：本館1階\n担当：新田（画像からの読み取
+ り）\n★体験可クラス\nスケジュール版：2026年10月～\n
+ 出典：https://www.shibukichi.com/contents/category/store-kichijoji/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:05ae01ea746ef4a8fd53@kick-schedule
+DTSTAMP:20261012T235658Z
+DTSTART;TZID=Asia/Tokyo:20261004T150000
+DTEND;TZID=Asia/Tokyo:20261004T155000
+RRULE:FREQ=WEEKLY;BYDAY=SU
+SUMMARY:ミット&マススパーリング（本館1階）
+LOCATION:KNOCK OUTクロスポイント吉祥寺\, 東京都武蔵野市吉
+ 祥寺東町1-11-20 鴨下ビル1F
+DESCRIPTION:場所：本館1階\n※時間割表に時刻の記載がない
+ ため、前後の枠から推定した時刻です\nスケジュール版
+ ：2026年10月～\n出典：https://www.shibukichi.com/contents/category/
+ store-kichijoji/
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
